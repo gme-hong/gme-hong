@@ -16,7 +16,7 @@
 5️⃣  💬 Ask me about anything [here](https://github.com/gme-hong/gme-hong/issues)
 
 
-| <a href="https://github.com/gme-hong/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=gme-hong&theme=gruvbox&show_icons=true" alt="OpticHong's github stats"  style="zoom:50%;" /></a> | <a href="https://github.com/gme-hong/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gme-hong&layout=compact" /></a> |
+| <a href="https://github.com/gme-hong"><img align="center" src="https://github-readme-stats.vercel.app/api?username=gme-hong&theme=gruvbox&show_icons=true" alt="OpticHong's github stats" /></a> | <a href="https://github.com/gme-hong"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gme-hong&layout=compact" /></a> |
 | ------------- | ------------- |
 
 
