@@ -5,13 +5,13 @@
 
 **About me**
 
-1️⃣  🎓 A college student of Computer and Information Technology, Shanxi University. 🇨🇳
+1️⃣  🎓 A college student of Computer and Information Technology, Shanxi University 🇨🇳
 
-2️⃣  📖 Research interests include grasp detection, continuous learning, and knowledge distillation.
+2️⃣  📖 Research interests include grasp detection, continuous learning, and knowledge distillation
 
-3️⃣  🎱 Billiards 🏸 Badminton ✈️ FPV
+3️⃣  🎱 Billiards 🏸 Badminton 🛸 FPV
 
-4️⃣  📧 Contact me: gme.niehong@gmail.com / gme.niehong@outlook.com
+4️⃣  📧 Contact me: gme.niehong@gmail.com or gme.niehong@outlook.com
 
 5️⃣  💬 Ask me about anything [here](https://github.com/gme-hong/gme-hong/issues)
 
